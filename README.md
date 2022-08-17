@@ -1,3 +1,5 @@
+Web scrapping que mostra a lista em português dos Oscares de melhor filme,obtido na wikipedia, retornando apenas a tabela com os títulos em português e somente os vencedores mostrando apenas o ano e não a data completa. Foi usado o cheerio e o axios.
+
 # AngularWebScraping
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.6.
@@ -25,3 +27,4 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
